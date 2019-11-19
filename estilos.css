@@ -1,0 +1,28 @@
+div.footer{
+    background-color: lightblue;
+}
+
+table{
+    background-color: lightsalmon;
+}
+
+hr{
+    clear: both;
+}
+
+
+img.logo{
+    float: left;
+}
+
+div.login_pass{
+    float: right;
+}
+
+img.box{
+    float: right;
+}
+
+p.centrado_student{
+    text-align: center;
+}
