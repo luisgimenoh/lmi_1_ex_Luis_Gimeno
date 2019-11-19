@@ -2,8 +2,9 @@ div.footer{
     background-color: lightblue;
 }
 
+
 table{
-    background-color: lightsalmon;
+    background-color: lightgoldenrodyellow;
 }
 
 hr{
@@ -25,4 +26,8 @@ img.box{
 
 p.centrado_student{
     text-align: center;
+}
+
+p.maps{
+    float: right;
 }
