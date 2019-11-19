@@ -29,5 +29,6 @@ p.centrado_student{
 }
 
 p.maps{
-    float: right;
+    text-align: center;
+       
 }
